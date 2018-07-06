@@ -8,3 +8,22 @@
 .navbar .nav-item.active {
     border-left: #444 3px solid;
 }
+
+.carousel-item {
+    height: 450px;
+}
+
+.carousel-image-1 {
+    background: url(../img/glozzom/image1.jpg);
+    background-size: cover;
+}
+
+.carousel-image-2 {
+    background: url(../img/glozzom/image2.jpg);
+    background-size: cover;
+}
+
+.carousel-image-3 {
+    background: url(../img/glozzom/image3.jpg);
+    background-size: cover;
+}
